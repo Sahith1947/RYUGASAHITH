@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahith1947&label=Profile%20views&color=0e75b6&style=flat" alt="sahith1947" /> </p>
 
-- 🔭 I’m currently working on **Fintech project**
+- 🔭 I’m currently working on **C++ project**
 
 - 🌱 I’m currently learning **OpenShift**
 
-- 👯 I’m looking to collaborate on **Ecommerce projects**
+- 👯 I’m looking to collaborate on **Java projects**
 
 - 🤝 I’m looking for help with **DeVOps**
 
