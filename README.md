@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahith1947&label=Profile%20views&color=0e75b6&style=flat" alt="sahith1947" /> </p>
 
-- 🔭 I’m currently working on **C++ project**
+- 🔭 I’m currently working on **Fintech**
 
 - 🌱 I’m currently learning **OpenShift**
 
